@@ -1,12 +1,12 @@
 ---
 title: |
-Ein neuer Aufbruch für Europa\
-Eine neue Dynamik für Deutschland\
-Ein neuer Zusammenhalt für unser Land
+  Ein neuer Aufbruch für Europa\
+  Eine neue Dynamik für Deutschland\
+  Ein neuer Zusammenhalt für unser Land
 subtitle: |
-Koalitionsvertrag\
-zwischen\
-CDU, CSU und SPD
+  Koalitionsvertrag\
+  zwischen\
+  CDU, CSU und SPD
 date: "Berlin, 7. Februar 2018"
 ---
 
